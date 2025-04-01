@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior software developer with experience in front-end and full-stack development.  <br>- Proficient in Java, React.js, Node.js, Express.js, and MongoDB.  <br>- Completed internships and projects, including a React-based plant shopping app and a MERN stack To-Do List.  <br>- Passionate about problem-solving, teamwork, and continuous learning.
+-Junior software developer with experience in front-end and full-stack development.  <br>- Proficient in Java, React.js, Node.js, Express.js, and MongoDB.  <br>- Completed internships and projects, including a React-based plant shopping app and a MERN stack To-Do List.  <br>- Passionate about problem-solving, teamwork, and continuous learning.
 
 
 ## 🌐 Socials:
