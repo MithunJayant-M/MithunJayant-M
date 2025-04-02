@@ -18,6 +18,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+[![GeeksforGeeks stats](https://gfgstatscard.vercel.app/jaimithy9vm)](https://www.geeksforgeeks.org/user/jaimithy9vm/)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MithunJayant-M&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
